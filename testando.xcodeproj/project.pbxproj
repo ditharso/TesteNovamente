@@ -38,21 +38,21 @@
 		91EA57751585A2E200E7F4AE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		91EA57771585A2E200E7F4AE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		91EA57791585A2E200E7F4AE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		91EA577D1585A2E200E7F4AE /* testando-Info.plist */ = {isa = PBXFileReference; path = "testando-Info.plist"; sourceTree = "<group>"; };
+		91EA577D1585A2E200E7F4AE /* testando-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "testando-Info.plist"; sourceTree = "<group>"; };
 		91EA577F1585A2E200E7F4AE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		91EA57811585A2E200E7F4AE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		91EA57831585A2E200E7F4AE /* testando-Prefix.pch */ = {isa = PBXFileReference; path = "testando-Prefix.pch"; sourceTree = "<group>"; };
-		91EA57841585A2E200E7F4AE /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		91EA57831585A2E200E7F4AE /* testando-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "testando-Prefix.pch"; sourceTree = "<group>"; };
+		91EA57841585A2E200E7F4AE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		91EA57851585A2E200E7F4AE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		91EA57881585A2E200E7F4AE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		91EA578B1585A2E200E7F4AE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		91EA578D1585A2E200E7F4AE /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		91EA578D1585A2E200E7F4AE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		91EA578E1585A2E200E7F4AE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		91EA57951585A2E200E7F4AE /* testandoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testandoTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		91EA57961585A2E200E7F4AE /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		91EA579E1585A2E200E7F4AE /* testandoTests-Info.plist */ = {isa = PBXFileReference; path = "testandoTests-Info.plist"; sourceTree = "<group>"; };
+		91EA579E1585A2E200E7F4AE /* testandoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "testandoTests-Info.plist"; sourceTree = "<group>"; };
 		91EA57A01585A2E200E7F4AE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		91EA57A21585A2E200E7F4AE /* testandoTests.h */ = {isa = PBXFileReference; path = testandoTests.h; sourceTree = "<group>"; };
+		91EA57A21585A2E200E7F4AE /* testandoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testandoTests.h; sourceTree = "<group>"; };
 		91EA57A31585A2E200E7F4AE /* testandoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testandoTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
